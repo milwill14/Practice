@@ -44,5 +44,13 @@ public class Innegrate1 {
 		else {
 			System.out.println("Congratulations! You passed.");
 			}
+		Problems problemsample = new Problems();
+		
+		problemsample.sampleProblem();
+		
+		Students studentRecords = new Students();
+		studentRecords.Records();
+		
 		}
+	
 }
